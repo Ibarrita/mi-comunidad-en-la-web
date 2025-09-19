@@ -3,7 +3,7 @@ Nombre: José Carlos Ibarra Aguayo
 
 Edad: 15
 
-Fecha de entrega: 17 de septiembre
+Fecha de entrega: 19 de septiembre
 
 Fecha de nacimiento: 18 de septiembre del 2009
 
